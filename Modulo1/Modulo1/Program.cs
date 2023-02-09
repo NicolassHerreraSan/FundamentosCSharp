@@ -20,7 +20,7 @@ namespace Modulo1
             string nom = Console.ReadLine();
             Console.WriteLine("El nombre del usuario es: "+nom);
             Console.ReadKey();
-           
+
         }
     }
 }
