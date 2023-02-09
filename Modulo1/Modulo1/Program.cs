@@ -18,7 +18,7 @@ namespace Modulo1
             int num1;
             Console.WriteLine("Escriba su nombre");
             string nom = Console.ReadLine();
-            Console.WriteLine("El nombre del usuario es "+nom);
+            Console.WriteLine("El nombre del usuario es: "+nom);
             Console.ReadKey();
            
         }
